@@ -1,4 +1,4 @@
-This is a personal webpage which has HTML, CSS and Java Script with integrated Jquery to makw it responsice.
+This is a personal webpage which has HTML, CSS and Java Script with integrated Jquery to make it responsive.
 It has detailed information on the personal projects I have done before and what kind of work I do.
 
 I am lover for Web designing and Full stack developing and that is well illustrated on the projects done on this portfolio.
